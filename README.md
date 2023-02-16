@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Watch jojo
+
+## Copyright
+
+2023 big training
