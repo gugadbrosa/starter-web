@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Watch jojo
+Watch jojo and the fork this repository
 
 ## Copyright
 
